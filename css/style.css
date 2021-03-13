@@ -90,7 +90,7 @@ h2.title {
     background-image: linear-gradient(to top, #2798b9 0%, #3ab6da 100%);
     text-shadow: -1px -1px 0 rgba(0, 0, 0, 0.22);
     color: #ffffff;
-    font-family: "Roboto Condensed";
+    font-family: "Roboto";
     font-size: 21px;
     font-weight: 400;
     line-height: 24px;
@@ -276,7 +276,7 @@ h2.title {
     background-image: linear-gradient(to top, #2798b9 0%, #3ab6da 100%);
     text-shadow: -1px -1px 0 rgba(0, 0, 0, 0.22);
     color: #ffffff;
-    font-family: 'Roboto Condensed';
+    font-family: 'Roboto';
     font-size: 21px;
     font-weight: 400;
     line-height: 24px;
